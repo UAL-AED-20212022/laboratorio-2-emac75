@@ -8,17 +8,13 @@ Chile
 Argentina  
 Portugal  
 Espanha  
-Chile  
-Argentina  
-Portugal  
-Espanha  
-<models.Node.Node object at 0x105133940>
+<models.Node.Node object at 0x100807940>
 Chile  
 Argentina  
 Portugal  
 Espanha  
 Franca  
-<models.Node.Node object at 0x105133940>
+<models.Node.Node object at 0x100807940>
 Chile  
 Argentina  
 Portugal  
@@ -34,15 +30,6 @@ Espanha
 Franca  
 China  
 Japao  
-Chile  
-Argentina  
-Portugal  
-Italia  
-Espanha  
-Franca  
-China  
-Japao  
-Angola  
 Chile  
 Argentina  
 Portugal  
@@ -60,78 +47,8 @@ Espanha
 Franca  
 Item found
 O país Portugal encontra-se na lista
-China  
-Japao  
-Angola  
-Chile  
-Argentina  
-Portugal  
-Italia  
-Espanha  
-Franca  
 item bot found
 O país Alemanha não se encontra na lista
-China  
-Japao  
-Angola  
-Chile  
-Argentina  
-Portugal  
-Italia  
-Espanha  
-Franca  
-China  
-Japao  
-Angola  
-Chile  
-Argentina  
-Portugal  
-Italia  
-Espanha  
-Franca  
-China  
-Japao  
-Angola  
-Chile  
-Argentina  
-Portugal  
-Italia  
-Espanha  
-Franca  
-China  
-Japao  
-Angola  
-Chile  
-Argentina  
-Portugal  
-Italia  
-Espanha  
-Franca  
-China  
-Japao  
-Angola  
-Chile  
-Argentina  
-Portugal  
-Italia  
-Espanha  
-Franca  
 Item found
 O país Chile foi eliminado da lista
-China  
-Japao  
-Angola  
-Argentina  
-Portugal  
-Italia  
-Espanha  
-Franca  
-O número de elementos são 8
-China  
-Japao  
-Angola  
-Argentina  
-Portugal  
-Italia  
-Espanha  
-Franca  
+O número de elementos são 8.
